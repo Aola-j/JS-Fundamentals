@@ -1,4 +1,4 @@
-let argument = 6
+let argument = 5
 
 if(argument < 5){
  console.log("No argument")
