@@ -1,4 +1,4 @@
-let argument = 1;
+let argument = 3;
 
 if (argument === 0) {
   console.log("No argument");
